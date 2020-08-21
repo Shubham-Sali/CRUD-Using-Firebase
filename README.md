@@ -12,6 +12,7 @@
 import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 
+```ruby
  const firebaseConfig = {
     apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "reactnativefirebase-00000.firebaseapp.com",
@@ -27,3 +28,4 @@ firebase.initializeApp(firebaseConfig);
 firebase.firestore();
 
 export default firebase;</h6>
+```
