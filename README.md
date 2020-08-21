@@ -3,9 +3,9 @@
 
 <h6>Install all necessary packages like naviagation, @stack/navigation and all screen, reanimated like all packages</h6>
 
-<h6> create firebase project Type the this url: <h5>console.firebase.google.com</h5> on your browser and then click on “Create a project”.</h6>
+<h6> create firebase project Type the this url:console.firebase.google.com on your browser and then click on “Create a project”.</h6>
 
-<h6> install firebase package: <h5>npm install firebase --save</h5></h6>
+<h6> install firebase package: npm install firebase --save</h6>
 
 <h6>// database/firebaseDb.js
 
