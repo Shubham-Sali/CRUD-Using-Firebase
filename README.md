@@ -9,10 +9,10 @@
 
 <h6>// database/firebaseDb.js
 
+```ruby
 import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 
-```ruby
  const firebaseConfig = {
     apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "reactnativefirebase-00000.firebaseapp.com",
