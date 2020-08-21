@@ -12,7 +12,7 @@
 import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 
-const firebaseConfig = {
+ const firebaseConfig = {
     apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "reactnativefirebase-00000.firebaseapp.com",
     databaseURL: "https://reactnativefirebase-00000.firebaseio.com",
